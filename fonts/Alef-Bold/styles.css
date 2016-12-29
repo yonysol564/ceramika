@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Alef-Bold';
+  src: url('Alef-Bold.eot?#iefix') format('embedded-opentype'),  
+  	   url('Alef-Bold.woff') format('woff'), 
+	   url('Alef-Bold.ttf')  format('truetype'), 
+	   url('Alef-Bold.svg#Alef-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
